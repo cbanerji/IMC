@@ -9,8 +9,8 @@ To run the IMC algorithm:
    It supports command line argument.  
 
 ### Glossary of the codes and relevant files at the above PATH
-![Complete IMC setup](image .jpg)
-
+![Complete IMC setup](image.jpg)
+##### Refer above image:
 IMC_run.py -- Calibration algorithm  
 our_site.xml -- XML config. file  
 CL_param_csv_short.csv -- PD file  
