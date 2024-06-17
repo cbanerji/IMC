@@ -1,0 +1,348 @@
+<Parms>
+    <General-Parms>
+        <headeroverride>false</headeroverride>
+        <x-coordinate>593</x-coordinate>
+        <y-coordinate>358</y-coordinate>
+        <initscans updated="yes">0.1292064299549829</initscans>
+        <maxerodelimit updated="yes">0.005064495600756236</maxerodelimit>
+        <cellsize>5</cellsize>
+        <memorylimit>1</memorylimit>
+        <minq updated="yes">0.010947609358066338</minq>
+        <creeprate updated="yes">0.0025</creeprate>
+        <lateralerosionrate updated="yes">22.829082825252556</lateralerosionrate>
+        <maxiter>50000000</maxiter>
+        <runstarttime>0</runstarttime>
+        <maxrunduration>17545</maxrunduration>
+        <slopefailurethreshold updated="yes">50.0</slopefailurethreshold>
+        <wssmoothingradius>2</wssmoothingradius>
+        <mvalue updated="yes">0.010607137676106613</mvalue>
+        <growgrasstime updated="yes">0.501087387716524</growgrasstime>
+        <initialq updated="yes">0.0049481049135898115</initialq>
+        <wssmoothing>false</wssmoothing>
+        <grass-sediment>false</grass-sediment>
+        <flowdistribution>0.00000001</flowdistribution>
+        <mintimestep>0</mintimestep>
+        <evaporation updated="yes">0.004687252022699661</evaporation>
+        <vegcritshear updated="yes">3.3923706566908516</vegcritshear>
+        <bedslope>false</bedslope>
+        <wsslope>false</wsslope>
+        <veltaubox>true</veltaubox>
+        <catchment_mode>true</catchment_mode>
+        <reach_mode>false</reach_mode>
+        <lat1>false</lat1>
+        <lat2>false</lat2>
+        <lat3>false</lat3>
+        <cross_stream_grad>0</cross_stream_grad>
+        <max_vel>5</max_vel>
+        <SaveOptions>
+            <Option>elevations</Option>
+            <Checked>true</Checked>
+        </SaveOptions>
+        <SaveOptions>
+            <Option>elevdiff</Option>
+            <Checked>true</Checked>
+        </SaveOptions>
+        <SaveOptions>
+            <Option>grainsize</Option>
+            <Checked>false</Checked>
+        </SaveOptions>
+        <SaveOptions>
+            <Option>total tracer g/s</Option>
+            <Checked>false</Checked>
+        </SaveOptions>
+        <SaveOptions>
+            <Option>tracer layer 1</Option>
+            <Checked>false</Checked>
+        </SaveOptions>
+        <SaveOptions>
+            <Option>tracer layer 2</Option>
+            <Checked>false</Checked>
+        </SaveOptions>
+        <SaveOptions>
+            <Option>tracer layer 3</Option>
+            <Checked>false</Checked>
+        </SaveOptions>
+        <SaveOptions>
+            <Option>tracer layer 4</Option>
+            <Checked>false</Checked>
+        </SaveOptions>
+        <SaveOptions>
+            <Option>tracer layer 5</Option>
+            <Checked>false</Checked>
+        </SaveOptions>
+        <SaveOptions>
+            <Option>tracer layer 6</Option>
+            <Checked>false</Checked>
+        </SaveOptions>
+        <SaveOptions>
+            <Option>tracer layer 7</Option>
+            <Checked>false</Checked>
+        </SaveOptions>
+        <SaveOptions>
+            <Option>tracer layer 8</Option>
+            <Checked>false</Checked>
+        </SaveOptions>
+        <SaveOptions>
+            <Option>tracer layer 9</Option>
+            <Checked>false</Checked>
+        </SaveOptions>
+        <SaveOptions>
+            <Option>water depth</Option>
+            <Checked>false</Checked>
+        </SaveOptions>
+        <SaveOptions>
+            <Option>d50</Option>
+            <Checked>false</Checked>
+        </SaveOptions>
+        <SaveOptions>
+            <Option>flow velocity</Option>
+            <Checked>false</Checked>
+        </SaveOptions>
+        <SaveOptions>
+            <Option>soil saturation</Option>
+            <Checked>false</Checked>
+        </SaveOptions>
+    </General-Parms>
+    <Grain-Size>
+        <gs>0</gs>
+        <gp>0</gp>
+        <ss>false</ss>
+        <fv>0.0003</fv>
+    </Grain-Size>
+    <Grain-Size>
+        <gs>0</gs>
+        <gp>0</gp>
+        <ss>false</ss>
+        <fv>0.109</fv>
+    </Grain-Size>
+    <Grain-Size>
+        <gs>0</gs>
+        <gp>0</gp>
+        <ss>false</ss>
+        <fv>0.164</fv>
+    </Grain-Size>
+    <Grain-Size>
+        <gs>0</gs>
+        <gp>0</gp>
+        <ss>false</ss>
+        <fv>0.237</fv>
+    </Grain-Size>
+    <Grain-Size>
+        <gs>0</gs>
+        <gp>0</gp>
+        <ss>false</ss>
+        <fv>0.338</fv>
+    </Grain-Size>
+    <Grain-Size>
+        <gs>0</gs>
+        <gp>0</gp>
+        <ss>false</ss>
+        <fv>0.479</fv>
+    </Grain-Size>
+    <Grain-Size>
+        <gs>0.000002</gs>
+        <gp>0.09</gp>
+        <ss>false</ss>
+        <fv>0.678</fv>
+    </Grain-Size>
+    <Grain-Size>
+        <gs>0.00002</gs>
+        <gp>0.11</gp>
+        <ss>false</ss>
+        <fv>0.959</fv>
+    </Grain-Size>
+    <Grain-Size>
+        <gs>0.002</gs>
+        <gp>0.80</gp>
+        <ss>false</ss>
+        <fv>1.357</fv>
+    </Grain-Size>
+    <File-Parms>
+        <inputtimestep>1440</inputtimestep>
+        <saveinterval>1052640</saveinterval>
+        <savetologfileinterval>1052640</savetologfileinterval>
+        <tracerrun>false</tracerrun>
+        <uniquefilecheck>true</uniquefilecheck>
+        <Filenames>
+            <Desc>DEM Data File</Desc>
+            <Name>g2_2019_fildem.txt</Name>
+        </Filenames>
+        <Filenames>
+            <Desc>Grain Data File</Desc>
+            <Name>null</Name>
+        </Filenames>
+        <Filenames>
+            <Desc>Bedrock Data File</Desc>
+            <Name>null</Name>
+        </Filenames>
+        <Filenames>
+            <Desc>Rain Data File</Desc>
+            <Name>D:\calibration_codes\CL1.9j_new\bin\Debug\19_21_rain_hourly.txt</Name>
+        </Filenames>
+        <Filenames>
+            <Desc>Tracer File</Desc>
+            <Name>null</Name>
+        </Filenames>
+        <Filenames>
+            <Desc>Tracer Sed Vol File</Desc>
+            <Name>null</Name>
+        </Filenames>
+        <Filenames>
+            <Desc>Tracer Grain Size Data File</Desc>
+            <Name>null</Name>
+        </Filenames>
+        <Sources>
+            <input>false</input>
+            <X />
+            <Y />
+            <Filename />
+        </Sources>
+        <Sources>
+            <input>false</input>
+            <X />
+            <Y />
+            <Filename />
+        </Sources>
+        <Sources>
+            <input>false</input>
+            <X />
+            <Y />
+            <Filename />
+        </Sources>
+        <Sources>
+            <input>false</input>
+            <X />
+            <Y />
+            <Filename />
+        </Sources>
+        <Sources>
+            <input>false</input>
+            <X />
+            <Y />
+            <Filename />
+        </Sources>
+        <Sources>
+            <input>false</input>
+            <X />
+            <Y />
+            <Filename />
+        </Sources>
+        <Sources>
+            <input>false</input>
+            <X />
+            <Y />
+            <Filename />
+        </Sources>
+        <Sources>
+            <input>false</input>
+            <X />
+            <Y />
+            <Filename />
+        </Sources>
+    </File-Parms>
+    <Description>
+        <S />
+    </Description>
+    <OutputFile-Parms>
+        <generateavifile>false</generateavifile>
+        <avifile>novalue</avifile>
+        <avifreq>1052640</avifreq>
+        <generatetimeseriesfile>false</generatetimeseriesfile>
+        <timeseriesfile>catchment_output.dat</timeseriesfile>
+        <timeseriesfreq>1052640</timeseriesfreq>
+        <generateiterationsfile>false</generateiterationsfile>
+        <iterationsfile>iterout.dat</iterationsfile>
+    </OutputFile-Parms>
+    <Display>
+        <top> 79</top>
+        <left> 165</left>
+        <width> 1715</width>
+        <height> 908</height>
+    </Display>
+    <Lateral>
+        <oldlat>false</oldlat>
+        <newlat>true</newlat>
+    </Lateral>
+    <Add_Ons>
+        <tracer-out>false</tracer-out>
+        <tracer-out-filename>tracer_output.txt</tracer-out-filename>
+        <google_animation>false</google_animation>
+        <google_animation_file_name>animation.kmz</google_animation_file_name>
+        <google_begin>2018-01-01</google_begin>
+        <google_interval>1052640</google_interval>
+        <jMean>false</jMean>
+        <edge_smoothing>40</edge_smoothing>
+        <displacement>false</displacement>
+        <prop_remain>1.0</prop_remain>
+        <max_time_step>3600</max_time_step>
+        <contam_input>false</contam_input>
+        <mineX>null</mineX>
+        <mineY>null</mineY>
+        <contam_input_file>null</contam_input_file>
+        <soil_rate>0.00125</soil_rate>
+        <siberia>false</siberia>
+        <beta1>384</beta1>
+        <beta3>0.000144</beta3>
+        <m1>1.69</m1>
+        <m3>0.83</m3>
+        <n1>0.69</n1>
+        <W_depth_erosion_threshold>0.01</W_depth_erosion_threshold>
+        <fexp>1</fexp>
+        <div_inputs>1</div_inputs>
+        <initial_sand_depth>4</initial_sand_depth>
+        <maxslabdepth>0.5</maxslabdepth>
+        <angle>15</angle>
+        <checkup>40</checkup>
+        <dep_probability>50</dep_probability>
+        <downstream_offset>1</downstream_offset>
+        <dune_timestep>144</dune_timestep>
+        <dune_gridsize>2</dune_gridsize>
+        <wilcock>true</wilcock>
+        <einstein>false</einstein>
+        <dune>false</dune>
+        <UTM>true</UTM>
+        <South>true</South>
+        <UTMzone>54</UTMzone>
+        <raindatatimestep>60</raindatatimestep>
+        <activelayerthickness>1.2</activelayerthickness>
+        <downstreamshift>3</downstreamshift>
+        <courantnumber>0.3</courantnumber>
+        <hflow>0.0001</hflow>
+        <lateralsmoothing>0.0001</lateralsmoothing>
+        <froude_limit>0.7</froude_limit>
+        <mannings updated="yes">0.011386893532345902</mannings>
+        <TidalorStage>false</TidalorStage>
+        <MinQmaxvalue>1</MinQmaxvalue>
+        <TidalXmin>0</TidalXmin>
+        <TidalXmax>0</TidalXmax>
+        <TidalYmin>0</TidalYmin>
+        <TidalYmax>0</TidalYmax>
+        <TidalFileName />
+        <TidalInputStep>1440</TidalInputStep>
+        <bedrock_erosion_threshold>0</bedrock_erosion_threshold>
+        <bedrock_erosion_rate>0</bedrock_erosion_rate>
+        <rfnum>1</rfnum>
+        <hydroindex>null</hydroindex>
+        <MultiRainfall>false</MultiRainfall>
+        <soildevbox>true</soildevbox>
+        <bedrocklowering>true</bedrocklowering>
+        <physicalweathering>true</physicalweathering>
+        <chemicalweathering>false</chemicalweathering>
+        <P1>0.000053</P1>
+        <b1>2</b1>
+        <k1>0.025</k1>
+        <c1>-0.5</c1>
+        <c2>5</c2>
+        <k2>70</k2>
+        <c3>-2.5</c3>
+        <c4>1</c4>
+        <SpatVarManningsCheckbox>false</SpatVarManningsCheckbox>
+        <spatvarmanningsfilename>D:\LEMs\Mt_Wickham\5m_wick_2018_col1_2\5m_wick_2018_col1_2 - Copy\mannings.txt</spatvarmanningsfilename>
+        <mfiletimestepbox>1440</mfiletimestepbox>
+        <mvalueloadbox>null</mvalueloadbox>
+        <meyer>false</meyer>
+        <all_nine_grainsizes>true</all_nine_grainsizes>
+        <oldveg>true</oldveg>
+        <newveg>false</newveg>
+    </Add_Ons>
+</Parms>
