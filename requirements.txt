@@ -1,0 +1,5 @@
+python_version >= 3.7,<4.0
+torch==1.8.1+cpu
+pandas==2.0.3
+numpy==1.24.1
+matplotlib==3.7.2
