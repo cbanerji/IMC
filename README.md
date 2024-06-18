@@ -9,7 +9,7 @@ To run the IMC algorithm:
    Go to the location and execute the file.  
    It supports command line argument.
 
-CAESAR-lisflood 1.9j is used to test the IMC and forms the part of the code pacakge. The source code and has been accessed from [here](https://sourceforge.net/projects/caesar-lisflood/files/CAESAR-lisflood%201.9j%20SOURCE.zip/download)  
+**CAESAR-lisflood 1.9j** is used to test the IMC and forms the part of the code pacakge. The source code and has been accessed from [here](https://sourceforge.net/projects/caesar-lisflood/files/CAESAR-lisflood%201.9j%20SOURCE.zip/download).
 The CAESAR-lisflood 1.9j source code has been slightly modified to enable interaction with IMC.
 
 <img src="image.jpg" alt="Complete IMC setup" width="700"/>  
