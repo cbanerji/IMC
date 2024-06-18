@@ -20,6 +20,7 @@ The CAESAR-lisflood 1.9j source code has been slightly modified to enable intera
 
 IMC_run.py -------------- Calibration algorithm  
 our_site.xml -------------- XML config. file  
-CL_param_csv_short.csv --PD file  
+CL_param_csv_short.csv - PD file  
 g2_2019_fildem.txt ------ DEM year 0  
 dod_19_21_orig.txt ------ DOD_Target  
+19_21_rain_hourly.txt ---- Rain data
